@@ -1,0 +1,9 @@
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\obj\Debug\CS-ASP_026.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\obj\Debug\CS-ASP_026.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\bin\CS-ASP_026.dll.config
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\bin\CS-ASP_026.dll
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\bin\CS-ASP_026.pdb
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\obj\Debug\CS-ASP_026.dll
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_026\CS-ASP_026\obj\Debug\CS-ASP_026.pdb
