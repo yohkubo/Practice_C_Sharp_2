@@ -1,0 +1,12 @@
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\bin\Debug\HeroMonster.dll
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\bin\Debug\HeroMonster.pdb
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\obj\Debug\CS-ASP_041-Windows.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\obj\Debug\CS-ASP_041-Windows.csproj.GenerateResource.Cache
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\obj\Debug\CS-ASP_041-Windows.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_2\CS-ASP_041-Windows\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
